@@ -1,0 +1,48 @@
+.about__features{
+    background-color: #F28D95;
+}
+.features-cards{
+    margin: auto;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding: 10rem 0;
+}
+.features-card{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    color: #FDFDFD;
+    align-items: center;
+    width: 30%;
+}
+.features-cardicon,.features-cardtitle{
+    font-size: 4rem;
+    margin: 2rem auto 1rem auto;
+}
+.features-cardtitle{
+    font-size: 2rem;
+    margin: auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+.features-cardcomment{
+    font-size: 1.2rem;
+    margin: 1rem auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;    
+    
+}
+.features-cardicon:hover{
+    color: #B90918;
+}
+
+@media screen and (max-width:45rem) {
+    .features-cards{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .features-card{
+        width: 100%;
+    }
+}

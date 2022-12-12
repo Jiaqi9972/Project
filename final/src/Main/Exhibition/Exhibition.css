@@ -1,0 +1,34 @@
+.main__exhibition{
+    display: flex;
+    flex-direction: row;
+    margin: 5% 10%;
+    background-color: #FDFDFD;
+}
+.fa-angle-left,.fa-angle-right{
+    margin: auto;
+    font-size: 3rem;
+    color: #80161E;
+}
+.exhibition-title{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;    
+    font-size: 3rem;
+    color: #80161E;
+    text-align: center;
+}
+.exhibition-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.exhibition-listphoto{
+    width: 70%;
+    margin: 0 auto;
+}
+.exhibition-name{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #80161E;
+}

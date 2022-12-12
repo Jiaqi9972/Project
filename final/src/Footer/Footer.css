@@ -1,0 +1,25 @@
+footer{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: #F1EFEF;
+    border-top: 1rem solid #F28D95;
+}
+
+.footer__message{
+    grid-column: 40%;
+}
+.footer__linkstitle{
+    grid-column: 60%;
+}
+
+@media screen and (max-width:70rem) {
+    footer{
+        grid-template-columns: 1fr;
+    }
+    .footer__message{
+        grid-column: 1fr;
+    }
+    .footer__linkstitle{
+        grid-column: 1fr;
+    }
+}

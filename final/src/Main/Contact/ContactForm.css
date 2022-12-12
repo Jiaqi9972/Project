@@ -1,0 +1,50 @@
+.contact-form{
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 50rem;
+}
+.contact-label{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+.contact-input{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+.contact-inputtitle {
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+.contact-inputvalue{
+    font-size: 1.5rem;
+    border: transparent;
+    border-bottom: 2px solid #80161E;
+    outline: none;
+}
+
+.contact-button{
+    margin: 2rem auto;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: 1px solid #A62B35;
+    background-color: #FDFDFD;
+    font-size: 1.2rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #80161E;
+    cursor: pointer;
+}
+.contact-button:hover,.contact-button:focus{
+    animation: shadow 200ms;
+    animation-fill-mode: forwards;
+}
+.contact-errormessage{
+    font-size: 1rem;
+    color: #C40D1C;
+}

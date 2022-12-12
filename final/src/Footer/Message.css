@@ -1,0 +1,73 @@
+.footer__message{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    border-right: 2px solid #80161E;
+}
+
+.message-company{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.message-slogonpart1{
+    margin: 5rem auto 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #A62B35;
+}
+
+.message-slogonpart2{
+    margin: 1rem auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    width: 80%;
+    text-align: center;
+    color: #F25764;
+    border-bottom: 2px solid #80161E;
+}
+
+.message-logo{
+    width: 25%;
+    margin: auto 0.5rem auto 1rem;
+    cursor: pointer;
+}
+
+.message-snstitle{
+    margin: 1rem auto;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #80161E;
+}
+
+.message-sns{
+    margin: 0 auto;
+}
+.message-sns a{
+    margin:0 0.3rem;
+    color: #80161E;
+}
+.message-sns a:hover,.message-sns a:focus{
+    color: #B91422;
+}
+
+
+.message-copyright{
+    margin: 1rem auto;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #80161E;
+}
+
+@media screen and (max-width:70rem) {
+    .footer__message{
+        border-right: none;
+        border-bottom: 2px solid #80161E;
+    }
+}

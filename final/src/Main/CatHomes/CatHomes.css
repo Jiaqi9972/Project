@@ -1,0 +1,86 @@
+.main__cathomes{
+    display: grid;
+    grid-template-areas: 'title form''subtitle form''cards cards';
+}
+.cathomes__title{
+    grid-area: title;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #80161E;
+    margin: auto auto 0.5rem auto;
+    text-align: center;
+}
+.cathomes__subtitle{
+    grid-area:subtitle;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #80161E;
+    margin: 0.5rem auto auto auto;
+    text-align: center;
+}
+.cathomes__news{
+    grid-area:form;
+}
+
+.cathomes__cards{
+    grid-area: cards;
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    list-style-type: none;
+}
+.cathomes__card{
+    grid-column: span 3;
+    margin: 1rem;
+    border: 1px solid transparent;
+    padding: 2rem;
+}
+.cathomes__card:hover{
+    border: 1px solid #80161E;
+    border-radius: 2rem;
+    animation: shadow 200ms;
+    animation-fill-mode: forwards;
+}
+.card-img{
+    max-width: 100%;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
+.card-name{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 1.3rem;
+    color: #80161E;
+}
+.card-score,.card-price,.card-features{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    color: #80161E;
+}
+@media screen and (max-width:70rem) {
+    .cathomes__card{
+        grid-column: span 6;
+    }
+}
+
+@media screen and (max-width:45rem){
+    .main__cathomes{
+        display: flex;
+        flex-direction: column;
+    }
+    .cathomes__title{
+        margin: 5rem auto 0.5rem auto;
+        font-size: 2rem;
+    }
+    .cathomes__subtitle{
+        margin: 0.5rem auto 5rem auto;
+        font-size: 2rem;
+    }
+    .cathomes__card{
+        grid-column: span 12;
+    }
+
+}
+
+    

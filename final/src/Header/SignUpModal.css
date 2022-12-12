@@ -1,0 +1,82 @@
+.header__signupmodalframe{
+    border: 1px solid #A62B35;
+    background-color: #FDFDFD;
+    border-radius: 2rem;
+    bottom: -15%;
+    color: #80161E;
+    animation: signupappear 600ms;
+    width: auto;
+}
+.header__signupmodal{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
+.signupmodal-title{
+    margin: 1rem auto 0.3rem auto;
+    font-size: 3rem;
+}
+.signupmodal-label{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    font-size: 1.2rem;
+}
+.signupmodal-info{
+    margin: 0.5rem;
+}
+.signupmodal-value{
+    border: 1px solid #A62B35;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.signupmodal-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.signupmodal-signup,.signupmodal-cancel{
+    margin: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: 1px solid #A62B35;
+    background-color: #FDFDFD;
+    font-size: 1.2rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    color: #80161E;
+    cursor: pointer;
+}
+
+.signupmodal-signup:hover,.signupmodal-cancel:hover,.signupmodal-signup:focus,.signupmodal-cancel:focus{
+    animation: shadow 200ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes signupappear {
+    0% {
+      opacity: 0%;
+      bottom: 90%;
+    }
+
+    100% {
+      opacity: 100%;
+      bottom: -15%;
+    }
+  }
+@media screen and (max-width:32rem) {
+    .signupmodal-button{
+        flex-direction: column;
+    }
+    .signupmodal-signup{
+        margin: 1rem;
+    }
+    .signupmodal-cancel{
+        margin: 1rem;
+    }
+    .signupmodal-title{
+        font-size: 2rem;
+    }
+}

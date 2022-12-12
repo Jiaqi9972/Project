@@ -1,0 +1,73 @@
+.about__sloganpage{
+    padding: 5rem 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    grid-template-areas: 'slogan img''download img';
+    background-color: #F28D95;
+}
+.sloganpage-slogan{
+    width: 70%;
+    grid-area: slogan;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 4rem;
+    margin: auto 1rem 3rem auto;
+    color: #80161E;
+}
+.sloganpage-download{
+    grid-area: download;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.sloganpage-themeimg{
+    width: 55%;
+    border-radius: 20%;
+    grid-area: img;
+    margin: 2rem auto 2rem 1rem;
+}
+.slogonpage-downloadbutton{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #80161E;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    color: #FDFDFD;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin: 1rem;
+    background-color: #80161E;
+}
+.slogonpage-downloadicon{
+    margin: 0.2rem;
+}
+.slogonpage-downloadinfo{
+    margin: 0.2rem;
+}
+
+.slogonpage-downloadbutton:hover,.slogonpage-downloadbutton:focus {
+    animation: shadow 200ms;
+    animation-fill-mode: forwards;
+    color: #FFF;
+    background-color: #C41423;
+    border: 1px solid #68050E;
+}
+
+@media screen and (max-width:45rem) {
+    .about__sloganpage{
+        display: flex;
+        flex-direction: column;
+    }
+    .sloganpage-slogan{
+        margin: 3rem auto;
+    }
+    .sloganpage-themeimg{
+        margin: 2rem auto;
+    }
+}
+

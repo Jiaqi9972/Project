@@ -1,0 +1,18 @@
+.main__contact{
+    width: 70%;
+    margin: 0 auto;
+}
+.contact-title{
+    margin: 5rem auto 2rem auto;
+    width: 100%;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600; 
+    font-size: 3rem;
+    color: #80161E;
+    text-align: center;
+}
+@media screen and (max-width:45rem){
+    .main__contact{
+        font-size: 1.5rem;
+    }
+}

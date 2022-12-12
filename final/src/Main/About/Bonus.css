@@ -1,0 +1,31 @@
+.about__bonus{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: #F28D95;
+    margin: 0;
+    list-style-type: none;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;  
+    font-size: 2rem;
+    color: #80161E;
+}
+.bonus-message{
+    width: 60%;
+    margin: 5rem auto;
+    display: flex;
+    flex-direction: column;
+}
+.bonus-messageicon{
+    margin: 0.2rem auto;
+}
+
+.bonus-messageicon:hover{
+    color: #B90918;
+}
+
+@media screen and (max-width:70rem) {
+    .about__bonus{
+        display: flex;
+        flex-direction: column;
+    }
+}

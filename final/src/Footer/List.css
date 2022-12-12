@@ -1,0 +1,44 @@
+.footer__links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 4rem 2rem 2rem 2rem;
+}
+
+.links-citytitle,.links-information,.links-friendtitle{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 3rem 1rem 1rem 1rem;
+    padding: 0;
+    color: #80161E;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.links-license,.links-city,.links-friendwebsite{
+    margin: 0.5rem;
+}
+
+.links-information a,.links-city a,.links-friendwebsite a{
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #F25764;
+}
+
+@media screen and (max-width:70rem) {
+    .footer__links{
+        flex-direction: column;
+    }
+    .links-citytitle,.links-information,.links-friendtitle{
+        margin: 1rem auto;
+    }
+    .footer__links{
+        margin: 1rem auto;
+    }
+
+}

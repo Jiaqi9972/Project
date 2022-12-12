@@ -1,0 +1,66 @@
+"filename", "language", "JavaScript", "JavaScript React", "CSS", "Markdown", "JSON", "HTML", "comment", "blank", "total"
+"d:\semester 1\student-Jiaqi9972\final\final\README.md", "Markdown", 0, 0, 0, 38, 0, 0, 0, 33, 71
+"d:\semester 1\student-Jiaqi9972\final\final\package-lock.json", "JSON", 0, 0, 0, 0, 29092, 0, 0, 1, 29093
+"d:\semester 1\student-Jiaqi9972\final\final\package.json", "JSON", 0, 0, 0, 0, 38, 0, 0, 1, 39
+"d:\semester 1\student-Jiaqi9972\final\final\public\index.html", "HTML", 0, 0, 0, 0, 0, 21, 24, 3, 48
+"d:\semester 1\student-Jiaqi9972\final\final\src\App.css", "CSS", 0, 0, 9, 0, 0, 0, 0, 1, 10
+"d:\semester 1\student-Jiaqi9972\final\final\src\App.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 7, 33
+"d:\semester 1\student-Jiaqi9972\final\final\src\App.test.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 2, 9
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\Footer.css", "CSS", 0, 0, 23, 0, 0, 0, 0, 2, 25
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\Footer.jsx", "JavaScript React", 0, 12, 0, 0, 0, 0, 0, 2, 14
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\List.css", "CSS", 0, 0, 39, 0, 0, 0, 0, 5, 44
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\List.jsx", "JavaScript React", 0, 36, 0, 0, 0, 0, 0, 2, 38
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\Message.css", "CSS", 0, 0, 64, 0, 0, 0, 0, 9, 73
+"d:\semester 1\student-Jiaqi9972\final\final\src\Footer\Message.jsx", "JavaScript React", 0, 30, 0, 0, 0, 0, 0, 2, 32
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\AlertBox.css", "CSS", 0, 0, 63, 0, 0, 0, 0, 10, 73
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\AlertBox.jsx", "JavaScript React", 0, 18, 0, 0, 0, 0, 0, 3, 21
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\ConfirmPasswordInput.jsx", "JavaScript React", 0, 39, 0, 0, 0, 0, 0, 8, 47
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\GlobalNav.css", "CSS", 0, 0, 40, 0, 0, 0, 0, 6, 46
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\GlobalNav.jsx", "JavaScript React", 0, 23, 0, 0, 0, 0, 0, 3, 26
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\Header.css", "CSS", 0, 0, 135, 0, 0, 0, 0, 23, 158
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\Header.jsx", "JavaScript React", 0, 64, 0, 0, 0, 0, 0, 7, 71
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\LogInModal.css", "CSS", 0, 0, 75, 0, 0, 0, 0, 10, 85
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\LogInModal.jsx", "JavaScript React", 0, 71, 0, 0, 0, 0, 0, 8, 79
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\LogOut.css", "CSS", 0, 0, 41, 0, 0, 0, 0, 4, 45
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\LogOut.jsx", "JavaScript React", 0, 22, 0, 0, 0, 0, 1, 2, 25
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\PasswordInput.jsx", "JavaScript React", 0, 39, 0, 0, 0, 0, 0, 6, 45
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\SignUpModal.css", "CSS", 0, 0, 78, 0, 0, 0, 0, 4, 82
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\SignUpModal.jsx", "JavaScript React", 0, 54, 0, 0, 0, 0, 0, 8, 62
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\UsernameInput.jsx", "JavaScript React", 0, 40, 0, 0, 0, 0, 0, 5, 45
+"d:\semester 1\student-Jiaqi9972\final\final\src\Header\menu.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 1, 20
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\About.jsx", "JavaScript React", 0, 17, 0, 0, 0, 0, 0, 2, 19
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Bonus.css", "CSS", 0, 0, 29, 0, 0, 0, 0, 2, 31
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Bonus.jsx", "JavaScript React", 0, 12, 0, 0, 0, 0, 0, 2, 14
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Features.css", "CSS", 0, 0, 46, 0, 0, 0, 0, 2, 48
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Features.jsx", "JavaScript React", 0, 25, 0, 0, 0, 0, 0, 2, 27
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Interview.css", "CSS", 0, 0, 51, 0, 0, 0, 0, 2, 53
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Interview.jsx", "JavaScript React", 0, 45, 0, 0, 0, 0, 0, 6, 51
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Introduction.css", "CSS", 0, 0, 43, 0, 0, 0, 0, 7, 50
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\Introduction.jsx", "JavaScript React", 0, 22, 0, 0, 0, 0, 0, 3, 25
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\SloganPage.css", "CSS", 0, 0, 69, 0, 0, 0, 0, 5, 74
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\SloganPage.jsx", "JavaScript React", 0, 26, 0, 0, 0, 0, 0, 2, 28
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\About\comments.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 2, 25
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\CatHomes.css", "CSS", 0, 0, 81, 0, 0, 0, 0, 5, 86
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\CatHomes.jsx", "JavaScript React", 0, 31, 0, 0, 0, 0, 0, 5, 36
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\News.css", "CSS", 0, 0, 64, 0, 0, 0, 0, 5, 69
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\News.jsx", "JavaScript React", 0, 100, 0, 0, 0, 0, 0, 6, 106
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\Subscribe.css", "CSS", 0, 0, 55, 0, 0, 0, 0, 5, 60
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\Subscribe.jsx", "JavaScript React", 0, 12, 0, 0, 0, 0, 0, 1, 13
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\CatHomes\homes.js", "JavaScript", 101, 0, 0, 0, 0, 0, 0, 2, 103
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\Contact.css", "CSS", 0, 0, 18, 0, 0, 0, 0, 0, 18
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\Contact.jsx", "JavaScript React", 0, 13, 0, 0, 0, 0, 0, 2, 15
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\ContactForm.css", "CSS", 0, 0, 47, 0, 0, 0, 0, 4, 51
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\ContactForm.jsx", "JavaScript React", 0, 113, 0, 0, 0, 0, 0, 12, 125
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\ThankPage.css", "CSS", 0, 0, 55, 0, 0, 0, 0, 4, 59
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Contact\ThankPage.jsx", "JavaScript React", 0, 13, 0, 0, 0, 0, 0, 3, 16
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Exhibition\Exhibition.css", "CSS", 0, 0, 34, 0, 0, 0, 0, 0, 34
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Exhibition\Exhibition.jsx", "JavaScript React", 0, 49, 0, 0, 0, 0, 0, 8, 57
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Exhibition\library.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 2, 24
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Main.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\semester 1\student-Jiaqi9972\final\final\src\Main\Main.jsx", "JavaScript React", 0, 16, 0, 0, 0, 0, 0, 3, 19
+"d:\semester 1\student-Jiaqi9972\final\final\src\Overlay.jsx", "JavaScript React", 0, 8, 0, 0, 0, 0, 0, 0, 8
+"d:\semester 1\student-Jiaqi9972\final\final\src\index.css", "CSS", 0, 0, 14, 0, 0, 0, 0, 2, 16
+"d:\semester 1\student-Jiaqi9972\final\final\src\index.js", "JavaScript", 12, 0, 0, 0, 0, 0, 3, 3, 18
+"d:\semester 1\student-Jiaqi9972\final\final\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 2, 14
+"d:\semester 1\student-Jiaqi9972\final\final\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 4, 1, 6
+"Total", "-", 197, 976, 1173, 38, 29130, 21, 32, 291, 31858

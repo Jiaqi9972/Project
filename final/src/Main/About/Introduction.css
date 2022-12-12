@@ -1,0 +1,49 @@
+.about__introduction{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: #FDFDFD;
+    color: #80161E;
+}
+
+.introduction-img01{
+    grid-column: 1/2;
+    width: 100%;
+}
+
+.introduction-list01{
+    list-style-type: none;
+    font-size: 3rem;
+    margin: auto 3rem;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    grid-column: 2/3;
+    
+}
+.introduction-list01message{
+    margin: 2rem;
+    font-size: 2rem;
+}
+.introduction-list02{
+    grid-column: 1/2;
+    list-style-type: none;
+    font-size: 3rem;
+    margin: auto 3rem;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+}
+.introduction-list02message{
+    margin: 2rem;
+    font-size: 2rem;
+}
+
+.introduction-img02{
+    grid-column: 2/3;
+    width: 100%;
+}
+
+@media screen and (max-width:70rem) {
+    .introduction-img01,.introduction-list01div,.introduction-list02,.introduction-img02{
+        grid-column: 1/3;
+    }
+}
+
